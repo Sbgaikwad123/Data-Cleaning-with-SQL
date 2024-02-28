@@ -4,7 +4,7 @@ This repository contains a collection of data cleaning projects using SQL. Each 
 
 ## 📂 Projects
 
-- [Project 1: Laptop Data Cleaning](laptop-data-cleaning/README.md)
+- [Project 1: Laptop Data Cleaning](laptop_data_cleaning/Readme.md)
 
 ## 🚀 Contributions
 Contributions to this repository are welcome! If you have a data cleaning project using SQL that you'd like to share, feel free to open a pull request.
